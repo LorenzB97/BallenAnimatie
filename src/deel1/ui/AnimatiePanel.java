@@ -1,9 +1,10 @@
 package deel1.ui;
 import java.awt.Color;
 
-import deel1.domain.BallenVeld;
 import javax.swing.BorderFactory;
 import javax.swing.JPanel;
+
+import deel1.domain.BallenVeld;
 
 public class AnimatiePanel extends JPanel{
 	private final BallenVeld ballenVeld;

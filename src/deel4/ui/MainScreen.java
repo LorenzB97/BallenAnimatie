@@ -1,7 +1,11 @@
 package deel4.ui;
 
-import java.awt.*;
-import javax.swing.*;
+import java.awt.BorderLayout;
+import java.awt.Dimension;
+import java.awt.Toolkit;
+
+import javax.swing.JFrame;
+
 import deel4.domain.BallenVeld;
 
 public class MainScreen extends JFrame{

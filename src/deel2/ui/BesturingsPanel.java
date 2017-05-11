@@ -2,7 +2,7 @@ package deel2.ui;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.GridLayout;
-import javax.swing.JLabel;
+
 import javax.swing.JPanel;
 
 import deel2.domain.BallenVeld;

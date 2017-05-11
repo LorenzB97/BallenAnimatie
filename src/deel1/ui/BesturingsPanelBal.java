@@ -2,6 +2,7 @@ package deel1.ui;
 
 import java.awt.Color;
 import java.awt.GridLayout;
+
 import javax.swing.BorderFactory;
 import javax.swing.JComboBox;
 import javax.swing.JLabel;
@@ -9,6 +10,7 @@ import javax.swing.JPanel;
 import javax.swing.JSpinner;
 import javax.swing.SpinnerModel;
 import javax.swing.SpinnerNumberModel;
+
 import deel1.domain.BallenVeld;
 
 public class BesturingsPanelBal extends JPanel{

@@ -4,10 +4,11 @@ import java.awt.Graphics;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
-import deel3.domain.BallenVeld;
-import deel3.domain.Cirkel;
 import javax.swing.BorderFactory;
 import javax.swing.JPanel;
+
+import deel3.domain.BallenVeld;
+import deel3.domain.Cirkel;
 
 public class AnimatiePanel extends JPanel{
 	private final BallenVeld ballenVeld;

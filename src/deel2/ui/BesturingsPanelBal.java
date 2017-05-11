@@ -2,8 +2,6 @@ package deel2.ui;
 
 import java.awt.Color;
 import java.awt.GridLayout;
-import java.awt.event.ItemEvent;
-import java.awt.event.ItemListener;
 
 import javax.swing.BorderFactory;
 import javax.swing.JComboBox;
@@ -12,6 +10,7 @@ import javax.swing.JPanel;
 import javax.swing.JSpinner;
 import javax.swing.SpinnerModel;
 import javax.swing.SpinnerNumberModel;
+
 import deel2.domain.BallenVeld;
 
 public class BesturingsPanelBal extends JPanel{

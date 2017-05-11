@@ -15,10 +15,8 @@ import javax.swing.SpinnerNumberModel;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-
 import deel3.domain.BallenVeld;
 import deel3.domain.BewegendeCirkel;
-import deel3.domain.Cirkel;
 import deel3.domain.HorizontaleBaan;
 import deel3.domain.IBaan;
 import deel3.domain.VertikaleBaan;
